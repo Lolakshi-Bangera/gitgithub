@@ -1,0 +1,57 @@
+*
+{
+    
+   padding: 0px;
+   box-sizing: border-box;
+   margin: 10px;
+}
+
+header,.content1
+{
+background-color: rgb(84, 179, 166)
+
+}
+
+.hd
+{
+   display:flex;
+}
+.hd2
+{
+    margin:auto;
+}
+.hd31
+{
+  text-align:center  
+}
+
+img
+{ 
+    border-radius:100%;
+}
+.content
+{
+    display:flex;
+    
+    
+}
+
+table,td,th
+{
+border: 2px solid black;
+border-collapse: collapse;
+text-align:cente
+}
+footer
+{
+    text-align:center;  
+}
+ul
+{
+    line-height: 2.5em;
+}
+nav
+{
+position:fixed;
+
+}
